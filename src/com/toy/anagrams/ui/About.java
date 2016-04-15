@@ -80,8 +80,8 @@ public class About extends JDialog {
         copyrightTextArea.setEditable(false);
         copyrightTextArea.setLineWrap(true);
         copyrightTextArea.setRows(8);
-        copyrightTextArea.setText("Anagrams\n\nCopyright (c) 2003  Irritable Enterprises, Inc.");
-        copyrightTextArea.setWrapStyleWord(true);
+        copyrightTextArea.setText("Anagrams\n\nCopyright (c) 2003  Irritable Enterprises, Inc.\nお先真っ暗トリオ\n　　内藤香帆\n　　千葉美歩\n　　神田結衣");
+        copyrightTextArea.setWrapStyleWord(true);        
         copyrightTextArea.setBorder(null);
         copyrightTextArea.setFocusable(false);
         gridBagConstraints = new java.awt.GridBagConstraints();
